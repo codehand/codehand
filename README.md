@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codehand.github.io/](https://codehand.github.io/)
 
-- 📝 I regularly write articles on [http://next1million.xyz/](http://next1million.xyz/)
+- 📝 I regularly write articles on [https://next1million.xyz/](https://next1million.xyz/)
 
 - 💬 Ask me about **golang**
 
